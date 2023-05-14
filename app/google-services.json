@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687441168747",
+    "project_id": "arba-d1951",
+    "storage_bucket": "arba-d1951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687441168747:android:23b1a85a151915d386642e",
+        "android_client_info": {
+          "package_name": "enjospaa.nos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687441168747-jf90sf2fpthq649u9dntf8pq77l3q4nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmqgjhBfEFpmerVYgEkaRgOAEaFowQMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687441168747-jf90sf2fpthq649u9dntf8pq77l3q4nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
